@@ -1,0 +1,20 @@
+
+* {
+    background-color: antiquewhite;
+}
+
+#homepage_heading {
+    text-align: center;
+    font-size: 50;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    background-color: whitesmoke;
+}
+
+#info {
+    font-size: 25;
+    font-family: sans-serif;
+    color: darkblue;
+    background-color: whitesmoke;
+}
